@@ -1,2 +1,2 @@
 # BubbleSort
-A simple code for bubble sort.
+A simple code for sorting algorithm (bubble sort).
